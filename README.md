@@ -1,5 +1,8 @@
-# learning-go
-The basics and fundamentals of the go programming language
+<img src="https://golang.org/lib/godoc/images/go-logo-blue.svg" />
+
+
+
+
 
 ### What is go
 Go language is a programming language initially developed at Google in the year 2007 by Robert Griesemer, Rob Pike, and Ken Thompson. It is a statically-typed language having syntax similar to that of C. It provides garbage collection, type safety, dynamic-typing capability, many advanced built-in types such as variable length arrays and key-value maps. It also provides a rich standard library. The Go programming language was launched in November 2009 and is used in some of the Google's production systems.
@@ -8,6 +11,9 @@ Go language is a programming language initially developed at Google in the year 
 
 
 This tutorial is designed for software programmers/beginners with a need to understand the Go programming language from scratch. This tutorial will give you enough understanding on Go programming language from where you can take yourself to higher levels of expertise.
+
+<br/>
+<img src="https://golang.org/lib/godoc/images/footer-gopher.jpg" />
 
 ### Prerequisites
 
@@ -20,7 +26,8 @@ If you are still willing to set up your environment for Go programming language,
    - A text editor
    - Go compiler
    - and then you need to [download go archive](https://golang.org/dl/)
-
+<br/>
+<img src="https://www.tutorialspoint.com/go/images/go-mini-logo.jpg" />
 
 
 ### Overview
