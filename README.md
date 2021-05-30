@@ -19,12 +19,9 @@ This tutorial is designed for software programmers/beginners with a need to unde
 
 Before proceeding with this tutorial, you should have a basic understanding of computer programming terminologies. If you have a good command over C, then it would be quite easy for you to understand the concepts of Go programming and move fast on the learning track.
 #### Setting up go
-##### Local Environment Setup
-
 If you are still willing to set up your environment for Go programming language, you need the following two software available on your computer −
 
    - A text editor
-   - Go compiler
    - and then you need to [download go archive](https://golang.org/dl/)
 <br/>
 <img src="https://www.tutorialspoint.com/go/images/go-mini-logo.jpg" />
